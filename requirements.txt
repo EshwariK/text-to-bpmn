@@ -1,7 +1,7 @@
 fastapi
 python-multipart
 fastapi-cors
-groq
+httpx
 python-dotenv
 uvicorn
 processpiper
